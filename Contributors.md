@@ -26,6 +26,7 @@
 - [robinofautumn](https://github.com/robinofautumn)
 - [Rushil Kumar](https://github.com/Rushilkr77)
 - [Vanessa Meyer](https://github.com/vansvones)
+- [Waibi Andrew Franklin] (https://github.com/waibiaf2)
 - [Ahmed Fatthi](https://github.com/AhmedFatthy1040)
 - [NobiteK](https://github.com/NobiteK)
 - [Nandha Kumar](https://github.com/tnrock)
